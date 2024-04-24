@@ -1,4 +1,4 @@
-# Predicciones de cancelaciones de clientes
+# Predicción de cancelacion de clientes
 
 <div id="header" align="center">
   <img decoding="async" src="https://media.giphy.com/media/dNgQ4qMYExpioGB3B4/giphy.gif" width="240"/>
