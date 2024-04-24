@@ -4,7 +4,7 @@
   <img decoding="async" src="https://media.giphy.com/media/dNgQ4qMYExpioGB3B4/giphy.gif" width="240"/>
 </div>
 
-En este notebook tiene como objetivo la predicción de posibles cancelaciones de clientes para una empresa de telecomunicación, con la finalidad de poder realizar promociones o planes especiales.
+Este notebook tiene como objetivo la predicción de posibles cancelaciones de clientes para una empresa de telecomunicación, con la finalidad de poder realizar promociones o planes especiales.
 Los datos están divididos en 4 datasets:
 
 - `contract.csv` — información del contrato;
